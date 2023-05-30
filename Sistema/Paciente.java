@@ -28,19 +28,12 @@ public class Paciente {
 	public String getnome(){
 		return nome;
 	}
-	
 	public Double getcpf() {
 		return cpf;
 	}
-	
 	public int getNprioridade() {
 		return Nprioridade;
 	}
 	
- 	
-	/*@Override
-	public String toString(){
-		return nome+ "\n"+ cpf ;
-	}*/
 
 }

@@ -30,8 +30,8 @@ public class APP {
             System.out.println(leve);
             
         } else if (prioridade == 2) {
-            moderado.add(paciente);
-            System.out.println(moderado);
+            normal.add(paciente);
+            System.out.println(normal);
             
         } else {
             severo.add(paciente);
